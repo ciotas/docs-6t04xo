@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-j0cpzm.indcuan.cfd/sitemap.xml
